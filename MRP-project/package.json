@@ -1,0 +1,11 @@
+{
+  "name": "production-management-system",
+  "version": "1.0.0",
+  "description": "**Production management systems (CodeIgniter)**\r This is a website based system, the case of this system is for **factory production**, system focuses on production planning, production processes, machines and materials used and production reports. This system was created for case studies and learning purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
