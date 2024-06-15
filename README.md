@@ -1,6 +1,6 @@
 # A Web-Based MRP for Production Planning
 
-Welcome to the A Web-Based MRP for Production Planning project! This repository contains the code and documentation for a comprehensive web-based Material Requirements Planning (MRP) system designed to streamline and enhance production planning and inventory management processes. The platform aims to optimize production schedules, ensure timely procurement of materials, and maintain optimal inventory levels, thereby supporting manufacturers in achieving efficiency, cost savings, and improved overall pperformance.
+This repository contains the code and documentation for a comprehensive web-based Material Requirements Planning (MRP) system designed to streamline and enhance production planning and inventory management processes. The platform aims to optimize production schedules, ensure timely procurement of materials, and maintain optimal inventory levels, thereby supporting manufacturers in achieving efficiency, cost savings, and improved overall pperformance.
 
 ### Why This Project?
 Efficient production planning and inventory management are critical to the success of manufacturing operations. This project aims to address the challenges faced by manufacturers by providing a robust and scalable MRP system. By leveraging modern web technologies, the platform offers a comprehensive solution that enhances productivity, reduces costs, and supports informed decision-making. The Web-Based MRP for Production Planning is designed to be a valuable tool for manufacturers looking to improve their...
