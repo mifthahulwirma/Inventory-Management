@@ -2,28 +2,6 @@
 
 Welcome to the A Web-Based MRP for Production Planning project! This repository contains the code and documentation for a comprehensive web-based Material Requirements Planning (MRP) system designed to streamline and enhance production planning and inventory management processes. The platform aims to optimize production schedules, ensure timely procurement of materials, and maintain optimal inventory levels, thereby supporting manufacturers in achieving efficiency, cost savings, and improved overall pperformance.
 
-## Table of Contents
-
-- [Project Description](#project-description)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-
-## Project Description
-
-The Web-Based MRP for Production Planning is an innovative solution created to address the complexities of production planning and inventory management. By integrating advanced web technologies, this platform provides a robust tool for managing production schedules, tracking inventory levels, and automating procurement processes. The system is designed to help manufacturers meet production deadlines, minimize costs, and enhance overall operational efficiency.
-
-### Objectives
-The primary objectives of the platform are to:
-- **Optimize Production Scheduling**: Generate efficient production schedules to meet customer demand while minimizing downtime and bottlenecks.
-- **Manage Inventory Levels**: Maintain optimal inventory levels to prevent overstocking and stockouts, ensuring that production processes are not disrupted.
-
-### Key Benefits
-- **User-Friendly Interface**: The platform is designed to be intuitive and easy to navigate, ensuring a smooth user experience for all users, including production managers, inventory controllers, and procurement teams.
-- **Real-Time Data**: Access real-time data on production schedules, inventory levels, and procurement status to make informed decisions and respond quickly to changing conditions.
-- **Cost Reduction**: Optimize inventory levels and production schedules to reduce carrying costs, minimize waste, and improve resource utilization.
-- **Improved Efficiency**: Streamline production planning and procurement processes to enhance overall operational efficiency and productivity.
-- **Scalability**: The platform is scalable to accommodate the needs of small, medium, and large manufacturers, allowing for growth and adaptation to changing business requirements.
-
 ### Why This Project?
 Efficient production planning and inventory management are critical to the success of manufacturing operations. This project aims to address the challenges faced by manufacturers by providing a robust and scalable MRP system. By leveraging modern web technologies, the platform offers a comprehensive solution that enhances productivity, reduces costs, and supports informed decision-making. The Web-Based MRP for Production Planning is designed to be a valuable tool for manufacturers looking to improve their...
 
